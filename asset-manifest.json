@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ltvcac/static/css/main.79115eb4.css",
-    "main.js": "/ltvcac/static/js/main.950ed21c.js",
+    "main.css": "/ltvcac/static/css/main.21cec01c.css",
+    "main.js": "/ltvcac/static/js/main.7f66c2e0.js",
     "static/media/bg.jpg": "/ltvcac/static/media/bg.cdb01ed9f4eac612c287.jpg",
     "static/media/bgMob.jpg": "/ltvcac/static/media/bgMob.d838e8632a3ae024fbf4.jpg",
     "static/media/2.jpg": "/ltvcac/static/media/2.a9b707802e86933e748d.jpg",
@@ -33,11 +33,11 @@
     "index.html": "/ltvcac/index.html",
     "static/media/noCheck.svg": "/ltvcac/static/media/noCheck.7bf6dbea6b49d605eb9e258c6d173efd.svg",
     "static/media/check.svg": "/ltvcac/static/media/check.328949aaa6c9ecf0a39e645a170b4d2f.svg",
-    "main.79115eb4.css.map": "/ltvcac/static/css/main.79115eb4.css.map",
-    "main.950ed21c.js.map": "/ltvcac/static/js/main.950ed21c.js.map"
+    "main.21cec01c.css.map": "/ltvcac/static/css/main.21cec01c.css.map",
+    "main.7f66c2e0.js.map": "/ltvcac/static/js/main.7f66c2e0.js.map"
   },
   "entrypoints": [
-    "static/css/main.79115eb4.css",
-    "static/js/main.950ed21c.js"
+    "static/css/main.21cec01c.css",
+    "static/js/main.7f66c2e0.js"
   ]
 }
